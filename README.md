@@ -7,4 +7,4 @@ Welcome to Java Programming Basics.
 
 > RecapAndString. You can find usage of:
 	Primitive Types Recap;
-	String Data Type.	
+	String Data Type.
