@@ -6,7 +6,7 @@ Welcome to Java Programming Basics.
 	> Examples of Overflow and Underflow;
 	> Usage of Unicode in 'char' type.
 
->> RecapAndString. You can find usage of:
+>> RecapAndString. You can find [usage](https://github.com/vg-shamking/JavaBasics/blob/master/Programming/RecapAndString/src/recapandstring/RecapAndString.java) of:
 
 	> Primitive Types Recap;
 	> String Data Type.
