@@ -1,13 +1,12 @@
-## Java Programming Basics applications.
+Welcome to Java Programming Basics.
 
-#### [TypesAndValues](https://github.com/vg-shamking/JavaBasics/blob/master/Programming/TypesAndValues/src/typesandvalues/TypesAndValues.java) shows:
-- MIN and MAX values of int, byte, short, long, float and double;
-- Overflow and Underflow examples;
-- Usage of Unicode in 'char' type.
+>> TypesAndValues. Here you can find:
 
-#### [RecapAndString](https://github.com/vg-shamking/JavaBasics/blob/master/Programming/RecapAndString/src/recapandstring/RecapAndString.java) represents:
-- Primitive Types Recap;
-- Basic actions on String type variables;
-- String Data Type.
+	> MIN and MAX values of byte, short, long, float and double;
+	> Examples of Overflow and Underflow;
+	> Usage of Unicode in 'char' type.
 
-####
+>> RecapAndString. You can find usage of:
+
+	> Primitive Types Recap;
+	> String Data Type.
